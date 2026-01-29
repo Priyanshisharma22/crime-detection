@@ -3,8 +3,8 @@ https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset
 
 
 About Project-
-Built a plant disease detection system using transfer learning (ResNet50/MobileNetV2) to classify healthy and diseased leaves from images with ~95% accuracy.
+Built a real-time CCTV Suspicious Activity Detection system to identify fighting, theft, and abnormal behavior using deep learning–based action recognition models.
 
-Implemented end-to-end pipeline including image preprocessing, model training/evaluation (confusion matrix), and real-time inference on new leaf images.
+Implemented I3D / SlowFast architectures with video preprocessing and temporal modeling to accurately classify human actions from surveillance footage.
 
-Deployed the model as a web application using Flask/Streamlit for user-friendly disease prediction.
+Achieved reliable detection by integrating model inference with frame sampling and evaluation metrics, demonstrating end-to-end deployment readiness.
